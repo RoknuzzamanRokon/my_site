@@ -61,6 +61,7 @@ h2{
 	text-align: left;
 }
 .profile_img{
+	background: linear-gradient(45deg, black, transparent);
 	padding: 10px;
 	border-radius: 50%; 
 	box-shadow: 5px 2px 15px rgba(0, 0, 0, 1);
@@ -151,6 +152,7 @@ hr{
 }
 .btn_text a{
 	text-decoration: none;
+	color: wheat;
 }
 
 
