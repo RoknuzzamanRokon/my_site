@@ -235,8 +235,39 @@ hr{
 	top: 10%;
 	color: red;
 	transform: translate(-50%, -50%);
-	
+	font-family: 'Niconne', cursive;
+	font-size: 200%;
+	text-shadow: 30px 20px 7px #000000;
 }
+
+
+.contact_information {
+	text-align: center;
+	padding: 20px;
+}
+
+.contact_information h1 {
+	margin-bottom: 20px;
+}
+
+.contact_information ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+/* .contact_information li {
+	margin: 10px;
+} */
+
+/* .contact_information li:before {
+	content: "@"; 
+} */
+
+
+
+
+
 
 
 
